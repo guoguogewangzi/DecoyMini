@@ -76,6 +76,8 @@ DecoyMini_Linux_xyy_xxx.pkg -install -addr http://192.168.8.100:8080
 Windows：decoymini.exe -uninstall
 Linux：decoymini -uninstall
 ```
+### 停止命令
+service decoymini stop
 
 ### 相关命令
 ```bash
